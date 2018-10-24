@@ -1,2 +1,8 @@
-/* CSS Document */
-
+#slideshow {
+	position: fixed;
+	
+	width: 80%;
+	height: 500px;
+	
+	margin: 100px;
+}
